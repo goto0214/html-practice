@@ -3,3 +3,36 @@
   padding: 0;
   box-sizing: border-box;
 }
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  width: 100%;
+  background-size: cover;
+}
+.header-text {
+  padding: 20px;
+}
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+.main-content1 {
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+.main-content2 {
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+.main-content3 {
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+.main-content4 {
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 30px;
+}
