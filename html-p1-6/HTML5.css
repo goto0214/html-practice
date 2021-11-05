@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+.a {
+  height: 200px;
+  background-size: cover;
+}
+.sakura {
+  background-image: url(img/box1.jpg);
+  background-position: center;
+}
+.sea {
+  background-image: url(img/box2.jpg);
+  background-position: center;
+}
+.tree {
+  background-image: url(img/box3.jpg);
+  background-position: center;
+}
+.snow {
+  background-image: url(img/box4.jpg);
+  background-position: center;
+}
